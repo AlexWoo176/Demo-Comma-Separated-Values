@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f4f2a69-4635-4dfd-9da7-f11f3f5c94fb" name="Default Changelist" comment="" />
+    <list default="true" id="8f4f2a69-4635-4dfd-9da7-f11f3f5c94fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/codegym/mon/CSVReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aMFDUEwTXFtIPhuZCCG8VyI8mr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +30,23 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CSVReader">
+    <configuration name="CSVReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codegym.mon.CSVReader" />
+      <module name="Demo-Comma-Separated-Values" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CopyCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codegym.mon.CopyCSV" />
+      <module name="Demo-Comma-Separated-Values" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.codegym.Main" />
       <module name="Demo-Comma-Separated-Values" />
@@ -43,6 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CSVReader" />
+        <item itemvalue="Application.CopyCSV" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -57,7 +82,8 @@
       <workItem from="1586537437359" duration="1269000" />
       <workItem from="1586538729722" duration="151000" />
       <workItem from="1586544105220" duration="1175000" />
-      <workItem from="1586582656003" duration="1811000" />
+      <workItem from="1586582656003" duration="2058000" />
+      <workItem from="1586667602359" duration="1325000" />
     </task>
     <servers />
   </component>
@@ -69,22 +95,22 @@
       <screen x="0" y="27" width="1600" height="800" />
     </state>
     <state x="603" y="46" width="544" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1600.800@0.27.1600.800" timestamp="1586537541183" />
-    <state width="1524" height="195" key="GridCell.Tab.0.bottom" timestamp="1586585304253">
+    <state width="1554" height="228" key="GridCell.Tab.0.bottom" timestamp="1586668927856">
       <screen x="0" y="27" width="1600" height="800" />
     </state>
-    <state width="1524" height="195" key="GridCell.Tab.0.bottom/0.27.1600.800@0.27.1600.800" timestamp="1586585304253" />
-    <state width="1524" height="195" key="GridCell.Tab.0.center" timestamp="1586585304252">
+    <state width="1554" height="228" key="GridCell.Tab.0.bottom/0.27.1600.800@0.27.1600.800" timestamp="1586668927856" />
+    <state width="1554" height="228" key="GridCell.Tab.0.center" timestamp="1586668927856">
       <screen x="0" y="27" width="1600" height="800" />
     </state>
-    <state width="1524" height="195" key="GridCell.Tab.0.center/0.27.1600.800@0.27.1600.800" timestamp="1586585304252" />
-    <state width="1524" height="195" key="GridCell.Tab.0.left" timestamp="1586585304252">
+    <state width="1554" height="228" key="GridCell.Tab.0.center/0.27.1600.800@0.27.1600.800" timestamp="1586668927856" />
+    <state width="1554" height="228" key="GridCell.Tab.0.left" timestamp="1586668927856">
       <screen x="0" y="27" width="1600" height="800" />
     </state>
-    <state width="1524" height="195" key="GridCell.Tab.0.left/0.27.1600.800@0.27.1600.800" timestamp="1586585304252" />
-    <state width="1524" height="195" key="GridCell.Tab.0.right" timestamp="1586585304253">
+    <state width="1554" height="228" key="GridCell.Tab.0.left/0.27.1600.800@0.27.1600.800" timestamp="1586668927856" />
+    <state width="1554" height="228" key="GridCell.Tab.0.right" timestamp="1586668927856">
       <screen x="0" y="27" width="1600" height="800" />
     </state>
-    <state width="1524" height="195" key="GridCell.Tab.0.right/0.27.1600.800@0.27.1600.800" timestamp="1586585304253" />
+    <state width="1554" height="228" key="GridCell.Tab.0.right/0.27.1600.800@0.27.1600.800" timestamp="1586668927856" />
     <state x="456" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1586583313866">
       <screen x="0" y="27" width="1600" height="800" />
     </state>
